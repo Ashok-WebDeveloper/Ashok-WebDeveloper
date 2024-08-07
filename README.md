@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development , Designing and Front-end Development 
 - 🌱 I’m currently learning HTML CSS JAVASCRIPT BOOSTRAP REACTJS FIREBASE 
 - 📫 How to reach me > Reah me Through email  
-- 😄 Pronouns: ...
+- 😄 Pronouns: he
 - ⚡ Fun fact: I have skill that is needs of a good front-end developer , designer and Web Developer
 
 <!---
